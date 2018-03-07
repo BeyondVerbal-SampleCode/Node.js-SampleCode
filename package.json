@@ -1,0 +1,16 @@
+{
+  "name": "NodeClientV3",
+  "version": "0.0.0",
+  "description": "NodeClientV3",
+  "main": "app.js",
+  "author": {
+    "name": "Pavel.Smirnov",
+    "email": ""
+  },
+  "dependencies": {
+    "fs": "0.0.2",
+    "https": "^1.0.0",
+    "request": "^2.65.0",
+    "stream": "0.0.2"
+  }
+}
